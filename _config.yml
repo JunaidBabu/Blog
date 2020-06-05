@@ -10,7 +10,7 @@ title: covid19india.org blog
 email: hello@covid19india.org
 description: > # this means to ignore newlines until "baseurl:"
   A space to express some thoughts and opinions.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://blog.covid19india.org" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 twitter_username: covid19indiaorg
